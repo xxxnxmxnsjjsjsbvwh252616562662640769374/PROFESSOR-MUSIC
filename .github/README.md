@@ -1,6 +1,6 @@
 ━━━━━━━━━━━━━━━━
 ### 🍁 𝗩𝗜𝗦𝗜𝗧𝗢𝗥𝗦 🍁
-
+˹Rɪsᴇ ꭙ Assɪsᴛᴀɴᴛ˼ ♪✨ !
 <!--
 **PROFESSOR-SOURABH/PROFESSOR-MUSIC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,7 +34,7 @@
 </h2>
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦ᴅᴇᴘʟᴏʏ+ᴏɴ+ʜᴇʀᴏᴋᴜ♦;♨️+ɴᴏ+ʜᴇʀᴏᴋᴜ+ʙᴀɴ+ɪssᴜᴇ+ᴀʟsᴏ+ᴠᴘs+ᴅᴇᴘʟᴏʏ+📍+ᴘʀᴇsᴇɴᴛ;🎭+ᴘᴏᴡᴇʀᴇᴅ+ʙʏ+𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥+🎭">
 <p align="center">
-  <img src="https://telegra.ph/file/205f3cf027a5a11f5f70e.jpg">
+  <img src="">
 </p>
 
 **𝗧𝗘𝗦𝗧 𝗕𝗢𝗧 ➣ [](https://t.me/PROFESSOR_SUKOON_BOT)**
@@ -59,7 +59,7 @@
 <h2 align="center">
 
 🔴「 𝗜𝗙 𝗔𝗡𝗬 𝗘𝗥𝗥𝗢𝗥 𝗧𝗛𝗘𝗡 𝗦𝗘𝗡𝗗 𝗦𝗦 𝗧𝗢 𝗗𝗠 」🔴
-[![ALONE](https://telegra.ph/file/101e1046e2fbbd1c3aa48.jpg)](https://telegram.me/SOURABH_OWNER)
+[![ALONE](https://telegra.ph/file/c2ff050b35f2a1aeecc09.jpg)](https://telegram.me/Risee_ownerr)
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
