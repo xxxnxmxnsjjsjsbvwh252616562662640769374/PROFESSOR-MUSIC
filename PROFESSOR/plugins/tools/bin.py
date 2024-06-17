@@ -7,7 +7,7 @@ from pyrogram.types import *
 async def check_ccbin(client, message):
     if len(message.command) < 2:
         return await message.reply_text(
-            "<b>✦ Please Give Me a Bin To Get Bin Details !</b>"
+            "<b>✦ Please Give Me a Bin To Get Cc Bin Details !</b>"
         )
     try:
         await message.delete()
