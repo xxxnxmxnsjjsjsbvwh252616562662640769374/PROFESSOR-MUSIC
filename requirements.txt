@@ -10,6 +10,7 @@ gitpython
 httpx[http2]
 heroku3
 hachoir
+Faker
 motor==3.3.2
 pillow==9.5.0
 psutil
