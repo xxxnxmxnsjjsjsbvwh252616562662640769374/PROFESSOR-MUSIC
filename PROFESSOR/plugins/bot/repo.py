@@ -20,11 +20,11 @@ start_txt = """
 async def start(_, msg):
     buttons = [
         [ 
-          InlineKeyboardButton("⦿ ＡＤＤ ＭＥ ＢＡＢＹ ⦿", url=f"https://t.me/Professor_Sukoon_Bot?startgroup=True&admin=delete_messages+invite_users+pin_messages")
+          InlineKeyboardButton("⦿ ＡＤＤ ＭＥ ＢＡＢＹ ⦿", url=f"https://t.me/RADHA4MUSIC_BOT?startgroup=True&admin=delete_messages+invite_users+pin_messages")
         ],
         [
-          InlineKeyboardButton("⦿ ʜᴇʟᴘ ⦿", url="https://t.me/Friends_Chatting_Masti_Group"),
-          InlineKeyboardButton("⦿ ᴘʀᴏғᴇssᴏʀ ⦿", url="https://t.me/II_PROFESSOR_SOURABH_II"),
+          InlineKeyboardButton("⦿ ʜᴇʟᴘ ⦿", url="https://t.me/PROFESSORxNETWORK"),
+          InlineKeyboardButton("⦿ ᴘʀᴏғᴇssᴏʀ ⦿", url="https://t.me/SOURABH_100RABH"),
           ],
                [
                 InlineKeyboardButton("⦿ ᴘʀᴏғᴇssᴏʀ ɴᴇᴛᴡᴏʀᴋ ⦿", url="https://t.me/PROFESSOR_NETWORK"),
@@ -32,7 +32,7 @@ async def start(_, msg):
 ],
 [
               InlineKeyboardButton("⦿ ᴜsᴇʀʙᴏᴛ ⦿", url=f"https://t.me/PROFESSOR_X_USERBOT"),
-              InlineKeyboardButton("︎⦿ ᴍᴜsɪᴄ ʀᴇᴘᴏ ⦿", url=f"https://github.com/PROFESSOR-SOURABH/PROFESSOR-MUSIC"),
+              InlineKeyboardButton("︎⦿ ᴍᴜsɪᴄ ʀᴇᴘᴏ ⦿", url=f"https://t.me/sourabh_100rabh"),
        
     ],
     [
@@ -41,13 +41,13 @@ async def start(_, msg):
        
     ],
     [ 
-          InlineKeyboardButton("⦿ ᴊᴏɪɴ ғᴏʀ sᴘᴀᴍ ʙᴏᴛ sᴜᴅᴏ ⦿", url=f"https://t.me/Friends_Chatting_Masti_Group")
+          InlineKeyboardButton("⦿ ᴊᴏɪɴ ғᴏʀ sᴘᴀᴍ ʙᴏᴛ sᴜᴅᴏ ⦿", url=f"https://t.me/Professorxnetwork")
         ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
     
     await msg.reply_photo(
-        photo="https://telegra.ph/file/403e733cb20a798f685fa.jpg",
+        photo="https://telegra.ph/file/c682fa28e16f8b85756ea.jpg",
         caption=start_txt,
         reply_markup=reply_markup
     )
